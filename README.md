@@ -16,7 +16,6 @@
 ---
 
 ## 🧠 About Me
-## 🧠 About Me
 
 ```yaml
 Name     : Sadaf Tahir
