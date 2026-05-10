@@ -6,7 +6,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SadfTahir&color=0e75b6&style=flat-square&label=Profile+Views)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadaf-tahir-884879347)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/sadaftahir/)
 [![GitHub followers](https://img.shields.io/github/followers/SadfTahir?style=flat-square&color=0e75b6&logo=github)](https://github.com/SadfTahir)
