@@ -16,26 +16,19 @@
 ---
 
 ## 🧠 About Me
-```python
-class SadafTahir:
-    def __init__(self):
-        self.name       = "Sadaf Tahir"
-        self.role       = "AI Engineering Student"
-        self.university = "FAST - National University of Computer and Emerging Sciences"
-        self.degree     = "BS Artificial Intelligence"
-        self.location   = "Faisalabad, Pakistan 🇵🇰"
-        self.languages  = ["C++", "Python"]
-        self.interests  = ["Machine Learning", "Deep Learning",
-                           "Probability & Statistics", "AI Research"]
+## 🧠 About Me
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something intelligent together 🤖")
-
-me = SadafTahir()
-me.say_hi()
+```yaml
+Name     : Sadaf Tahir
+Role     : AI Engineering Student
+College  : FAST - National University of Computing and Emerging Sciences
+Degree   : BS Artificial Intelligence
+Location : Faisalabad, Pakistan 🇵🇰
+Languages: [Python, C++ , React, Nodejs , Java , R]
+Interests: [Machine Learning, Deep Learning, Computer Vision, NLP,
+            Probability & Statistics]
+Motto    : "Turning data into intelligence ✨"
 ```
-
----
 ## 🛠️ Tech Stack
 
 <div align="center">
