@@ -16,31 +16,9 @@
 ---
 
 ## 🧠 About Me
-
-```python
-class SadafTahir:
-    def __init__(self):
-        self.name       = "Sadaf Tahir"
-        self.role       = "AI Engineering Student"
-        self.university = "FAST - National University of Computer and Emerging Sciences"
-        self.degree     = "BS Artificial Intelligence"
-        self.location   = "Faisalabad, Pakistan 🇵🇰"
-        self.languages  = ["C++", "Python"]
-        self.interests  = ["Machine Learning", "Deep Learning", 
-                           "Probability & Statistics", "AI Research"]
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something intelligent together 🤖")
-
-me = SadafTahir()
-me.say_hi()
-` ` `
-
----
-
 ## 🛠️ Tech Stack
 
-
+<div align="center">
 
 **Languages**
 
@@ -60,7 +38,7 @@ me.say_hi()
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
+</div>
 
 ---
 
@@ -77,18 +55,14 @@ me.say_hi()
 
 ## 📊 GitHub Stats
 
+<div align="center">
 
-
-
-
-
-
-
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SadfTahir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadfTahir&layout=compact&theme=tokyonight&hide_border=true"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SadfTahir&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-
+</div>
 
 ---
 
@@ -103,25 +77,22 @@ me.say_hi()
 
 ## 🤝 Connect With Me
 
-
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadaf-tahir-884879347)
-[![LeetCode](https://img.shields.io/badge/Solve_Problems_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/sadaftahir/)
+[![LeetCode](https://img.shields.io/badge/Solve_Problems_on_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sadaftahir/)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SadfTahir)
 
-
+</div>
 
 ---
 
+<div align="center">
 
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
 **⭐ If you like my work, consider giving my repos a star! ⭐**
 
 *"Artificial intelligence is the new electricity."* — Andrew Ng
 
-
-```
-
----
+</div>
