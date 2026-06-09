@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sadaf%20Tahir&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20FAST%20University&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Sadaf%20Tahir&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20FAST%20University&descAlignY=60&descSize=18" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+production-grade+AI+systems+%F0%9F%A4%96;RAG+%7C+Computer+Vision+%7C+MLOps+%7C+NLP;BS+Artificial+Intelligence+%40+FAST+%2722-26;92%25+violation+detection+accuracy+in+FYP+%F0%9F%94%A5)](https://git.io/typing-svg)
 
@@ -80,9 +80,9 @@ class SadafTahir:
 
 <table>
 <tr>
-<td><img src="https://img.shields.io/badge/✅_Status-Completed-22c55e?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/🎯_Accuracy-92%25_Violation_Detection-7c3aed?style=flat-square"/></td>
-<td><img src="https://img.shields.io/badge/🧠_Core_AI-Llama3+FAISS+RAG-ec4899?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/✅_Status-Completed-22c55e?style=for-the-badge"/></td>
+<td><img src="https://img.shields.io/badge/🎯_Accuracy-92%25_Violation_Detection-7c3aed?style=for-the-badge"/></td>
+<td><img src="https://img.shields.io/badge/🧠_Core_AI-Llama3+FAISS+RAG-ec4899?style=for-the-badge"/></td>
 </tr>
 </table>
 
@@ -195,7 +195,7 @@ research = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer"/>
 
 **⭐ If you like my work, consider giving my repos a star! ⭐**
 
