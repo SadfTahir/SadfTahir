@@ -72,11 +72,19 @@ class SadafTahir:
 
 ## `projects`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a855f7&height=3&section=header&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a855f7&height=3&section=header" width="100%"/>
 
-### 🏆 ProctoGrade — AI-Powered Online Assessment & Proctoring `FYP`
+### <img src="https://img.shields.io/badge/🏆_FYP-ProctoGrade-7c3aed?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/AI--Powered_Online_Assessment_&_Proctoring_Platform-a855f7?style=for-the-badge&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Status-Completed-7c3aed?style=flat-square"/> <img src="https://img.shields.io/badge/Accuracy-92%25_Violation_Detection-a855f7?style=flat-square"/> <img src="https://img.shields.io/badge/Stack-Llama3+FAISS+RAG-ec4899?style=flat-square"/>
+> 🎓 **Final Year Project** · FAST NUCES '26 · *Production-grade AI examination system*
+
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/✅_Status-Completed-22c55e?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/🎯_Accuracy-92%25_Violation_Detection-7c3aed?style=flat-square"/></td>
+<td><img src="https://img.shields.io/badge/🧠_Core_AI-Llama3+FAISS+RAG-ec4899?style=flat-square"/></td>
+</tr>
+</table>
 
 - 🧠 Built AI examination engine using **Llama 3 + FAISS** to auto-generate course-specific questions based on instructor rubrics & marking criteria
 - 📚 Developed **Student Practice Module** using RAG to retrieve relevant course content and deliver instant AI feedback
