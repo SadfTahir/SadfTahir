@@ -1,16 +1,8 @@
 <div align="center">
 
-```
- ██████╗ ████████╗
-██╔════╝ ╚══██╔══╝
-╚█████╗     ██║   
- ╚═══██╗    ██║   
-██████╔╝    ██║   
-╚═════╝     ╚═╝   
-S  A  D  A  F     T  A  H  I  R
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Sadaf%20Tahir&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20FAST%20University&descAlignY=60&descSize=18&fontAlignX=50" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+ML+Researcher+%7C+FAST+%2722-26;RAG+%7C+Computer+Vision+%7C+MLOps+%7C+NLP;92%25+violation+detection+accuracy+%E2%80%94+ProctoGrade+FYP;Turning+data+into+intelligence+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+production-grade+AI+systems+%F0%9F%A4%96;RAG+%7C+Computer+Vision+%7C+MLOps+%7C+NLP;BS+Artificial+Intelligence+%40+FAST+%2722-26;92%25+violation+detection+accuracy+%E2%80%94+ProctoGrade+FYP)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,6 +18,8 @@ S  A  D  A  F     T  A  H  I  R
 ![University](https://img.shields.io/badge/FAST-'26-7c3aed?style=flat-square)
 
 </div>
+
+---
 
 ---
 
@@ -208,7 +202,7 @@ research = {
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:ec4899&height=120&section=footer"/>
 
 **⭐ If you like my work, consider giving my repos a star! ⭐**
 
