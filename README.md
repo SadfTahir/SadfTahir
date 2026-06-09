@@ -16,66 +16,41 @@
 
 ---
 
-## 🧠 About Me
+## `whoami`
 
-```yaml
-Name      : Sadaf Tahir
-Role      : AI Engineering Student & Researcher
-University: FAST - National University of Computing and Emerging Sciences
-Degree    : BS Artificial Intelligence  2022 – 2026 (Expected)
-Location  : Faisalabad, Pakistan 🇵🇰
-Languages : [Python, C++, React, Node.js, Java, R]
-Interests : [Machine Learning, Deep Learning, Computer Vision,
-             NLP, Probability & Statistics]
-Motto     : "Turning data into intelligence ✨"
+```python
+class SadafTahir:
+    role        = "AI Engineering Student & Researcher"
+    location    = "Faisalabad, Pakistan 🇵🇰"
+    education   = "BS Artificial Intelligence @ FAST NUCES '26"
+    languages   = ["Python", "C++", "R", "Java", "React", "Node.js"]
+    focus       = ["RAG Pipelines", "Computer Vision", "NLP", "MLOps"]
+    fyp         = "ProctoGrade — AI Proctoring System (92% detection accuracy)"
+    currently   = "Finalizing FYP + Deep Learning & Cloud Deployment"
+    motto       = "Turning data into intelligence that actually works ✨"
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## `tech_stack`
 
-<div align="center">
+| **🧠 AI & ML** | **⚙️ MLOps & Cloud** |
+|---|---|
+| `PyTorch` `Scikit-learn` `OpenCV` | `Docker` `AWS EC2` `AWS S3` |
+| `HuggingFace` `Transformers` `FAISS` | `FastAPI` `Apache Airflow` |
+| `YOLOv8` `TensorRT` `Llama 3` | `GitHub Actions` `CI/CD` |
+| `NumPy` `Pandas` `Matplotlib` | `Google Colab` `Anaconda` |
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**AI / ML**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**MLOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-</div>
+| **💬 Languages** | **🛠️ Tools** |
+|---|---|
+| `Python` `C++` `R` `Java` | `VS Code` `Jupyter` `Git` |
+| `React` `Node.js` | `Kaggle` `Canva` `Notion` `Android Studio` |
 
 ---
 
-## 🚀 Featured Projects
+## `projects`
 
-### 🏆 ProctoGrade — AI-Powered Online Assessment & Proctoring Platform `FYP`
+### 🏆 ProctoGrade — AI-Powered Online Assessment & Proctoring `FYP`
 
 - 🧠 Built AI examination engine using **Llama 3 + FAISS** to auto-generate course-specific questions based on instructor rubrics & marking criteria
 - 📚 Developed **Student Practice Module** using RAG to retrieve relevant course content and deliver instant AI feedback
@@ -125,25 +100,30 @@ Motto     : "Turning data into intelligence ✨"
 
 ---
 
-## 📊 GitHub Stats
+## `github_stats`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SadfTahir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadfTahir&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SadfTahir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0b&title_color=A78BFA&icon_color=A78BFA&text_color=7a7a7e"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadfTahir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=A78BFA&text_color=7a7a7e"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SadfTahir&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SadfTahir&theme=tokyonight&hide_border=true&background=0a0a0b&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## `currently_building`
 
-- 🤖 Deep Learning & Neural Networks
-- 📊 Advanced Probability & Statistical Inference
-- 🔍 Computer Vision — Object Detection & Segmentation
-- ☁️ Cloud Deployment & Scalable ML Systems
+```python
+research = {
+    "fyp"       : "ProctoGrade — AI Proctoring with Llama 3 + FAISS",
+    "learning"  : ["Deep Learning", "Neural Networks", "Cloud Deployment"],
+    "exploring" : ["Scalable ML Systems", "Advanced Computer Vision",
+                   "Statistical Inference", "LLM Fine-tuning"],
+    "goal"      : "Build AI that survives real-world usage"
+}
+```
 
 ---
 
@@ -166,5 +146,7 @@ Motto     : "Turning data into intelligence ✨"
 **⭐ If you like my work, consider giving my repos a star! ⭐**
 
 *"The goal of AI is not to replace human intelligence — it's to amplify it."*
+
+**— Sadaf Tahir · FAST NUCES '26 · Faisalabad, PK**
 
 </div>
