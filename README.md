@@ -154,10 +154,14 @@ class SadafTahir:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SadfTahir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0b&title_color=A78BFA&icon_color=ec4899&text_color=7a7a7e"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadfTahir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=A78BFA&text_color=7a7a7e"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=SadfTahir&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SadfTahir&theme=tokyonight&hide_border=true&background=0a0a0b&ring=A78BFA&fire=ec4899&currStreakLabel=A78BFA)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SadfTahir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0b&title_color=A78BFA&icon_color=ec4899&text_color=7a7a7e&show=reviews,discussions_started,prs_merged"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadfTahir&layout=donut&theme=tokyonight&hide_border=true&bg_color=0a0a0b&title_color=A78BFA&text_color=7a7a7e"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SadfTahir&theme=tokyonight&hide_border=true&background=0a0a0b&ring=A78BFA&fire=ec4899&currStreakLabel=A78BFA&dates=7a7a7e)](https://git.io/streak-stats)
+
+[![Sadaf's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SadfTahir&theme=tokyo-night&bg_color=0a0a0b&color=A78BFA&line=a855f7&point=ec4899&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
