@@ -10,6 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0b?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/sadaf-tahir-884879347)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0a0a0b?style=for-the-badge&logo=leetcode&logoColor=A78BFA)](https://leetcode.com/u/sadaftahir/)
 [![GitHub](https://img.shields.io/badge/SadfTahir-0a0a0b?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/SadfTahir)
+[![Fiverr](https://img.shields.io/badge/Fiverr-0a0a0b?style=for-the-badge&logo=fiverr&logoColor=A78BFA)](https://www.fiverr.com/sellers/sadaftahir116/edit)
 
 <br/>
 
