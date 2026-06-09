@@ -23,7 +23,7 @@
 
 ---
 
-## `whoami`
+## `About Me`
 
 ```python
 class SadafTahir:
@@ -39,7 +39,7 @@ class SadafTahir:
 
 ---
 
-## `tech_stack`
+## `Tech Stack`
 
 <div align="center">
 
@@ -77,7 +77,7 @@ class SadafTahir:
 
 ---
 
-## `projects`
+## `Projects`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a855f7&height=3&section=header" width="100%"/>
 
@@ -157,7 +157,7 @@ class SadafTahir:
 
 ---
 
-## `github_stats`
+## `Github Stats`
 
 <div align="center">
 
@@ -174,7 +174,7 @@ class SadafTahir:
 
 ---
 
-## `currently_building`
+## `Currently Building`
 
 ```python
 research = {
