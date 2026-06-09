@@ -1,16 +1,29 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Sadaf%20Tahir&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Researcher%20%7C%20FAST%20University&descAlignY=60&descSize=18" />
+```
+ ██████╗ ████████╗
+██╔════╝ ╚══██╔══╝
+╚█████╗     ██║   
+ ╚═══██╗    ██║   
+██████╔╝    ██║   
+╚═════╝     ╚═╝   
+S  A  D  A  F     T  A  H  I  R
+```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+production-grade+AI+systems+%F0%9F%A4%96;RAG+%7C+Computer+Vision+%7C+MLOps+%7C+NLP;BS+Artificial+Intelligence+%40+FAST+%2722-26;92%25+violation+detection+accuracy+in+FYP+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+Engineer+%7C+ML+Researcher+%7C+FAST+%2722-26;RAG+%7C+Computer+Vision+%7C+MLOps+%7C+NLP;92%25+violation+detection+accuracy+%E2%80%94+ProctoGrade+FYP;Turning+data+into+intelligence+%E2%9C%A8)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SadfTahir&color=7c3aed&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadaf-tahir-884879347)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/sadaftahir/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sadaftahir114@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/SadfTahir?style=flat-square&color=7c3aed&logo=github)](https://github.com/SadfTahir)
+[![Email](https://img.shields.io/badge/sadaftahir114%40gmail.com-0a0a0b?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:sadaftahir114@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0b?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/sadaf-tahir-884879347)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0a0a0b?style=for-the-badge&logo=leetcode&logoColor=A78BFA)](https://leetcode.com/u/sadaftahir/)
+[![GitHub](https://img.shields.io/badge/SadfTahir-0a0a0b?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/SadfTahir)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=SadfTahir&color=7c3aed&style=flat-square&label=profile+views)
+![Status](https://img.shields.io/badge/status-open_to_work-A78BFA?style=flat-square)
+![University](https://img.shields.io/badge/FAST-'26-7c3aed?style=flat-square)
 
 </div>
 
