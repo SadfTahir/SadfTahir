@@ -82,7 +82,7 @@ class SadafTahir:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:a855f7&height=3&section=header" width="100%"/>
 
-### <img src="https://img.shields.io/badge/🏆_FYP-ProctoGrade-7c3aed?style=for-the-badge&logoColor=white"/> <img src="https://img.shields.io/badge/AI--Powered_Online_Assessment_&_Proctoring_Platform-a855f7?style=for-the-badge&logoColor=white"/>
+### [<img src="https://img.shields.io/badge/🏆_FYP-ProctoGrade-7c3aed?style=for-the-badge&logoColor=white"/>](https://github.com/SadfTahir/-ProctoGrade) <img src="https://img.shields.io/badge/AI--Powered_Online_Assessment_&_Proctoring_Platform-a855f7?style=for-the-badge&logoColor=white"/>
 
 > 🎓 **Final Year Project** · FAST NUCES '26 · *Production-grade AI examination system*
 
