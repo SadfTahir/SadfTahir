@@ -144,7 +144,7 @@ class SadafTahir:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f59e0b,100:f97316&height=3&section=header" width="100%"/>
 
-### 🏙️ Smart City Urban Surveillance — Computer Vision
+### [🏙️ Smart City Urban Surveillance — Computer Vision](https://github.com/SadfTahir/Pedestrian-Detection-Smart-Cities)
 
 <img src="https://img.shields.io/badge/Precision-83%25-f59e0b?style=flat-square"/> <img src="https://img.shields.io/badge/Speed-30%2B_FPS-f97316?style=flat-square"/>
 
