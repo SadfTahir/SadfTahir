@@ -104,6 +104,30 @@ class SadafTahir:
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,50:3b82f6,100:06b6d4&height=3&section=header" width="100%"/>
+
+### [<img src="https://img.shields.io/badge/🎮_GameStore-ASP.NET_E--Commerce-3b82f6?style=for-the-badge&logoColor=white"/>](https://github.com/SadfTahir/GameStore-ASPNET-Ecommerce/) <img src="https://img.shields.io/badge/Full--Stack_Web_Forms_Platform-06b6d4?style=for-the-badge&logoColor=white"/>
+
+> 🛒 **Full-stack, production-ready** game e-commerce storefront with a complete admin back-office
+
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/✅_Status-Completed-22c55e?style=for-the-badge"/></td>
+<td><img src="https://img.shields.io/badge/💻_Framework-ASP.NET_Web_Forms-3b82f6?style=for-the-badge"/></td>
+<td><img src="https://img.shields.io/badge/🔧_Backend-C%23_|_SQL_Server-7c3aed?style=for-the-badge"/></td>
+</tr>
+</table>
+
+- 🎮 Built complete **buyer journey** — storefront, product details, cart, checkout, payment, and order history
+- 🛡️ Implemented **role-based authentication** with custom membership system separating buyers from admins
+- 📊 Developed **admin back-office** with dashboard analytics, product CRUD, and user management
+- 📱 Responsive layout via separate **desktop and mobile master pages**
+- 🗄️ **Database-driven** architecture using ADO.NET data binding with SQL Server
+
+`C#` `ASP.NET Web Forms` `SQL Server` `ADO.NET` `Bootstrap` `jQuery`
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:06b6d4&height=3&section=header" width="100%"/>
 
 ### 🎣 Phishing Email Detection — Zero-Shot vs Fine-Tuned NLP
